@@ -202,7 +202,7 @@ export const generateMessageIDV2 = (userId?: string): string => {
 		}
 	}
 
-	const random = randomBytes(20)
+	const random = randomBytes(24)
 	random.copy(data, 28)
 
 	const hash = createHash('sha256').update(data).digest()
