@@ -43,7 +43,7 @@ yarn add github:VanzzTOT/baileys
 
 Then import your code using:
 ``` ts 
-import makeWASocket from '@VamzzTOT/baileys'
+import makeWASocket from '@VanzzTOT/baileys'
 ```
 
 ## Unit Tests
