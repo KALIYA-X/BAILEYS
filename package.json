@@ -1,5 +1,5 @@
 {
-  "name": "@vreden/baileys",
+  "name": "@VanzzTOT/baileys",
   "version": "6.7.5",
   "description": "WhatsApp API",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/vreden/baileys",
+  "homepage": "https://github.com/VanzzTOT/baileys",
   "repository": {
-    "url": "git+ssh://git@github.com/vreden/baileys.git"
+    "url": "git+ssh://git@github.com/VanzzTOT/baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
