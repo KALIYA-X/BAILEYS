@@ -33,17 +33,17 @@ To run the example script, download or clone the repo and then type the followin
 
 Use the stable version:
 ```
-yarn add @vreden/baileys
+yarn add @VanzzTOT/baileys
 ```
 
 Use the edge version (no guarantee of stability, but latest fixes + features)
 ```
-yarn add github:vreden/baileys
+yarn add github:VanzzTOT/baileys
 ```
 
 Then import your code using:
 ``` ts 
-import makeWASocket from '@vreden/baileys'
+import makeWASocket from '@VamzzTOT/baileys'
 ```
 
 ## Unit Tests
@@ -55,7 +55,7 @@ TODO
 WhatsApp provides a multi-device API that allows Baileys to be authenticated as a second WhatsApp client by scanning a QR code with WhatsApp on your phone.
 
 ``` ts
-import makeWASocket, { DisconnectReason } from '@vreden/baileys'
+import makeWASocket, { DisconnectReason } from '@VanzzTOT/baileys'
 import { Boom } from '@hapi/boom'
 
 async function connectToWhatsApp () {
